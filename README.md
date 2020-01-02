@@ -6,6 +6,8 @@
 - Linear regression
 - Web scraping
 
+---
+
 ### Problem Statement 
 Player development and salary cap management are arguably the most important jobs of an NBA front office and coaching staff.   
 
