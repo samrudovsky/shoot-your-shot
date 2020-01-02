@@ -1,8 +1,8 @@
-## Shoot Your Shot – Expediting skill development and professional growth of NBA rookies 
+# Shoot Your Shot – Expediting skill development and professional growth of NBA rookies 
 
-### Project 2 – Metis Data Science Bootcamp (Weeks 2-3)
+## Project 2 – Metis Data Science Bootcamp (Weeks 2-3)
 
-**Technical Focus**
+### Technical Focus
 - Linear regression
 - Web scraping
 
