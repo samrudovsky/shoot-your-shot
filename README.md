@@ -22,7 +22,7 @@ The NBA has a hard-cap, meaning that teams are not allowed to spend over a certa
 
 Is it worth jeopardizing the team's success as a rookie works through the kinks? Or should only the most NBA-ready rookies command significant minutes? 
 
-**I scraped 60 years of statistics from http://www.basketball-reference.com: That data indicates that allowing rookies ample opportunity to fail is generally a sound philosophy for NBA organizations**
+**I scraped 60 years of statistics from https://www.basketball-reference.com: That data indicates that allowing rookies ample opportunity to fail is generally a sound philosophy for NBA organizations**
 
 ---
 
