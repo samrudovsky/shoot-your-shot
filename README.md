@@ -18,11 +18,11 @@ Rookie players play an outsized role in both situations. Rookies can roughly be 
 
 3) Rookies who are talented enough to compete in the NBA but are prone to mistakes and fluctuations in play.  This is the most common scenario.  There are two general philosophies surrounding the management of these players. The first is a theory of osmosis – the hope that rookies will learn strong habits and work ethic not by playing significant minutes but by careful observation of the example set by their veteran teammates. The second theory encourages throwing the rookies into the deep end with the hope that inevitable short-term growing pains will lead to accelerated growth. 
 
-The NBA has a hard-cap, meaning that teams are not allowed to spend over a certain amount of money on their players.  The intention is to level the playing field between small market teams (such as Milwaukee) and big market teams (such as Los Angeles).  Organizations must make shrewd draft decisions and then have a good player-development staff in order to remain competitive year after year.  With older players often commanding higher salaries, it is incumbent upon an organization to develop young players on smaller contracts.  
+The NBA has a hard-cap, meaning that teams are not allowed to spend over a certain amount of money on their players.  The intention is to level the playing field between small market and big market teams.  Teams must make shrewd draft decisions and hire a dependable player-development staff in order to remain competitive year after year.  With older players often commanding higher salaries, it is incumbent upon an organization to develop young players on smaller contracts.  
 
-Is it worth jeopardizing the team's success as a rookie works through the kinks? Or should only the most NBA-ready rookies command significant minutes? 
+Is it worth jeopardizing team success as a rookie works through the kinks? Or should only the most NBA-ready rookies command significant minutes? 
 
-**I scraped 60 years of statistics from https://www.basketball-reference.com: That data indicates that allowing rookies ample opportunity to fail is generally a sound philosophy for NBA organizations**
+**I scraped 60 years of statistics from https://www.basketball-reference.com: The data indicates that allowing rookies ample opportunity to fail is generally a sound philosophy for NBA organizations**
 
 ---
 
