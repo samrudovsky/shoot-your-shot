@@ -45,4 +45,4 @@ The opportunity for rookies to shoot their shot (even when most shots were misse
 ### Code -- Jupyter Notebooks
 
 - [notebooks/web-scraping.ipynb](notebooks/web-scraping.ipynb) – Web scraping
-- [notebooks/modeling.ipynb](notebooks/modeling.ipynb) – Modeling 
+- [notebooks/modeling.ipynb](notebooks/modeling.ipynb) – EDA + Modeling 
