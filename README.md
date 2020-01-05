@@ -38,4 +38,11 @@ With an MAE of 2.7 points per game, the cross-validated linear model with an L1 
 
 **Rookies who were allowed sufficient opportunity to shoot the basketball (regardless of whether those shots went in at a high rate) often showed a marked improvement from year 1 to year 2**
 
-The opportunity for rookies to shoot their shot (even when most shots were missed!) was strongly associated with year 2 success.  In fact, it was far more predictive than a player's year 1 field goal percentage. NBA coaches, development staff, and front offices should err on the side of patience when it comes to developing their young players. 
+The opportunity for rookies to shoot their shot (even when most shots were missed!) was strongly associated with year 2 success.  In fact, it was far more predictive than a player's year 1 field goal percentage. NBA coaches, development staff, and front offices should err on the side of patience when it comes to developing their young players.
+
+---
+
+### Code -- Jupyter Notebooks
+
+- [notebooks/web-scraping.ipynb](notebooks/web-scraping.ipynb) – Web scraping
+- [notebooks/modeling.ipynb](notebooks/modeling.ipynb) – Modeling 
